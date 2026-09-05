@@ -103,8 +103,11 @@ Run the following command:
 ```
 
 > bv*    = best available video
+> 
 > ba     = best available audio
+>
 > +      = combine video and audio
+>
 > /b     = fallback to the best combined format
 
 Replace `VIDEO_URL` with the actual YouTube video URL.
