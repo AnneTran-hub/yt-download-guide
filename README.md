@@ -38,3 +38,10 @@ This guide uses the following third-party tools and resources:
 
 ### YouTube
 - Terms of Service: https://www.youtube.com/t/terms
+
+## Acknowledgements
+
+This guide was written based on my own installation and testing experience.
+AI assistance was used to help improve wording, formatting, and explanations.
+Technical information was cross-checked against the official project resources
+listed in the References section.
