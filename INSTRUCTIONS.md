@@ -106,7 +106,7 @@ Run the following command:
 > 
 > ba     = best available audio
 >
->  +      = combine video and audio
+> bv*+ba     = combine video and audio
 >
 > /b     = fallback to the best combined format
 
